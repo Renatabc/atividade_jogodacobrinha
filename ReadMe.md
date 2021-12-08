@@ -29,7 +29,7 @@
 
 ## Demonstração da Aplicação
 
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/62c3ee57-b77c-451d-b49f-f43adb3a3629/deploy-status)](https://app.netlify.com/sites/atividadejogodacobrinha/deploys)
 
 
 
